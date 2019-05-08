@@ -1,3 +1,4 @@
 # Blog-app
 personal practice, not deployed.
-technics used: node.js-express, mongoDB, semantic ui
+frame: node.js-express
+others: mongoDB, semantic ui
