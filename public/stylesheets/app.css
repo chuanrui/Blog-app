@@ -1,0 +1,7 @@
+i.icon{
+    font-size: 2em;
+}
+/*only has both cantainer and main classes*/
+.container.main{
+    margin-top: 5em;
+}
